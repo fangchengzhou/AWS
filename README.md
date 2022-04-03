@@ -1,2 +1,1 @@
-# AWS
-my cs5224 project
+# AWS-Final
